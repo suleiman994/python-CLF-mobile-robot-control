@@ -1,5 +1,11 @@
 # Python CLF-QP Mobile Robot Control
 
+<p align="center">
+  <img src="results/clf_mobile_robot_animation.gif" width="650">
+</p>
+
+
+
 This project demonstrates Control Lyapunov Function Quadratic Programming (CLF-QP) control for a simple 2D mobile robot using Python.
 
 The goal is to show how a Control Lyapunov Function can be used to guarantee convergence to a target point.
